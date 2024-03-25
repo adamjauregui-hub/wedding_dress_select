@@ -1,0 +1,12 @@
+name: Princess_Choice
+title: Princess_Choice
+username: adamjauregui-shiny
+account: adamjauregui-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11574289
+bundleId: 8410824
+url: https://adamjauregui-shiny.shinyapps.io/Princess_Choice/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
